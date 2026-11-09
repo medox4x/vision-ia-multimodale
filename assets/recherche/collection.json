@@ -1,0 +1,217 @@
+{
+  "description": "Collection de démonstration (12 photos Flickr8k) et 4 requêtes étiquetées à la main.",
+  "convention": "Recall@K (benchmark) : une seule image associée par requête. Precision@K : images « pertinentes » (note 2). Les images « partiellement pertinentes » (note 1) ne comptent pas comme pertinentes.",
+  "jugement": "Étiquettes de pertinence attribuées par l'auteur à partir des légendes humaines Flickr8k ; ce n'est pas une vérité terrain officielle.",
+  "traduction": "Les requêtes françaises (diapositives 16 à 18) sont traduites en anglais pour CLIP, entraîné surtout sur des textes anglais.",
+  "images": [
+    {
+      "id": "3147758035_e8a70818cb",
+      "fichier": "images/3147758035_e8a70818cb.jpg",
+      "description_fr": "Cycliste traversant une rue mouillée sur un passage piéton",
+      "origine": "diapositive 16 (galerie, image associée à Q1)",
+      "legendes_flickr8k": [
+        "A man in black rides a bicycle across the street while another walks holding a dog .",
+        "A man on a bicycle and a man on foot in a crosswalk .",
+        "A man on a bike and another man with a dog in his bag crossing a wet street",
+        "The man on the bike is riding next to a man holding a dog .",
+        "Two men , one on a bike and one that is walking ."
+      ]
+    },
+    {
+      "id": "1928319708_ccf1f4ee72",
+      "fichier": "images/1928319708_ccf1f4ee72.jpg",
+      "description_fr": "Cycliste sur une route mouillée, le long de barrières en béton",
+      "origine": "diapositive 16 (galerie)",
+      "legendes_flickr8k": [
+        "A man is cycling on the road .",
+        "A man rides a bicycle down a road with concrete barriers .",
+        "A man rides his bicycle on a wet road .",
+        "A person biking on a road near a fence .",
+        "Man cycles through diry bike path wearing white helmet and gloves"
+      ]
+    },
+    {
+      "id": "1143373711_2e90b7b799",
+      "fichier": "images/1143373711_2e90b7b799.jpg",
+      "description_fr": "Cycliste traversant une rue animée par temps sec",
+      "origine": "diapositive 16 (galerie)",
+      "legendes_flickr8k": [
+        "A bicycle rider is crossing a street .",
+        "A bicyclist getting ready to cross a street .",
+        "A biker in spandex riding on a busy street .",
+        "A man in blue and white biking gear rides down a busy street .",
+        "a man wearing a helmet riding his bicycle down the street ."
+      ]
+    },
+    {
+      "id": "2925577165_b83d31a7f6",
+      "fichier": "images/2925577165_b83d31a7f6.jpg",
+      "description_fr": "Rue inondée la nuit, un monospace soulève des gerbes d'eau",
+      "origine": "diapositive 16 (galerie)",
+      "legendes_flickr8k": [
+        "A minivan drives through a deep puddle of water on the road .",
+        "A minivan splashing through a flooded parking lot on a rainy night .",
+        "A rainy road at night .",
+        "Lights are reflecting off a city street in the evening during a rain storm .",
+        "Minivan drives down wet urban street at night , splashing water ."
+      ]
+    },
+    {
+      "id": "842960985_91daf0d6ec",
+      "fichier": "images/842960985_91daf0d6ec.jpg",
+      "description_fr": "Homme en trench-coat marchant sous la pluie avec un parapluie",
+      "origine": "diapositive 16 (galerie)",
+      "legendes_flickr8k": [
+        "A man in a beige trench coat is walking in the rain .",
+        "A man in a tan trench coat and blue jeans walks with a black umbrella open over his head .",
+        "A man in a trench coat is walking with an umbrella .",
+        "A man with white hair , a long trench coat and an umbrella walks past a parking meter .",
+        "Man walking with his umbrella in a bleak street ."
+      ]
+    },
+    {
+      "id": "2414384480_096867d695",
+      "fichier": "images/2414384480_096867d695.jpg",
+      "description_fr": "Voyageurs attendant le métro sur un quai",
+      "origine": "diapositives 13 à 15 (légendage) et 16 (galerie)",
+      "legendes_flickr8k": [
+        "A group of people are standing on a platform and waiting for the subway train .",
+        "Commuters on a subway platform as the train pulls in",
+        "Crowd waiting fro the train .",
+        "many people wait for the train .",
+        "Several people wait for a train ."
+      ]
+    },
+    {
+      "id": "1142847777_2a0c1c2551",
+      "fichier": "images/1142847777_2a0c1c2551.jpg",
+      "description_fr": "Cycliste casquée circulant dans une rue animée",
+      "origine": "ajoutée pour le notebook",
+      "legendes_flickr8k": [
+        "A bicyclist riding on a city street .",
+        "A woman in a blue helmet and brown shorts rides her bike on a busy street .",
+        "A woman is riding a blue bike .",
+        "A woman is riding her bicycle in traffic",
+        "A woman wearing a blue helmet rides her bicycle in a parking lot ."
+      ]
+    },
+    {
+      "id": "1691573772_1adef8e40e",
+      "fichier": "images/1691573772_1adef8e40e.jpg",
+      "description_fr": "Cycliste en pull rose circulant devant des voitures",
+      "origine": "ajoutée pour le notebook",
+      "legendes_flickr8k": [
+        "A girl in a pink shirt is riding a bicycle in traffic .",
+        "An Asian woman rides a bicycle in front of two cars .",
+        "A woman in a pink sweater rides her bike alongside cars .",
+        "A woman is riding her bicycle down the street .",
+        "A woman wearing a pink sweater rides a bike with a car behind her ."
+      ]
+    },
+    {
+      "id": "2261346505_302c67951d",
+      "fichier": "images/2261346505_302c67951d.jpg",
+      "description_fr": "Groupe de personnes sous des parapluies transparents, sous la pluie",
+      "origine": "ajoutée pour le notebook",
+      "legendes_flickr8k": [
+        "A group of foreign people stand with umbrellas on the side of the street .",
+        "A group of people with clear umbrellas standing on the street .",
+        "People trying to stay dry with umbrellas in the city .",
+        "People walk in the rain with umbrellas .",
+        "Several people are walking on a rainy busy street in Asia with clear umbrellas ."
+      ]
+    },
+    {
+      "id": "2734219983_fe86a60bf9",
+      "fichier": "images/2734219983_fe86a60bf9.jpg",
+      "description_fr": "Femme et enfant marchant sous une pluie battante avec un parapluie",
+      "origine": "ajoutée pour le notebook",
+      "legendes_flickr8k": [
+        "A woman and child with an umbrella walk through the street in the pouring rain .",
+        "a woman in a colorful sari walks with a small boy who is carrying an umbrella through a busy city in the pouring rain .",
+        "A woman in a sari next to a boy holding a red umbrella in a rainy street",
+        "A woman walking in the rain with a child .",
+        "The lady and child walk to school in the rain ."
+      ]
+    },
+    {
+      "id": "3451984463_37ac1ff7a8",
+      "fichier": "images/3451984463_37ac1ff7a8.jpg",
+      "description_fr": "Cycliste en veste de pluie jaune avec un sac à dos",
+      "origine": "ajoutée pour le notebook",
+      "legendes_flickr8k": [
+        "A cyclist is riding past buildings with backpack and cycling gear .",
+        "A cyclist rides his black bicycle while wearing a yellow jacket and white helmet .",
+        "A cyclist with a helmet , backpack , and yellow jacket .",
+        "A man wearing a backpack and helmet riding a bicycle .",
+        "a man with a backpack wearing a yellow raincoat is riding a bicycle past red brick and stone wall ."
+      ]
+    },
+    {
+      "id": "3684680947_f1c460242f",
+      "fichier": "images/3684680947_f1c460242f.jpg",
+      "description_fr": "Enfant marchant dans la rue sous une forte pluie, sans parapluie",
+      "origine": "ajoutée pour le notebook",
+      "legendes_flickr8k": [
+        "A boy in a red shirt walks down the street through heavy rain .",
+        "A boy in yellow walks down the street .",
+        "A boy walks in the rain with tennis balls in his shirt .",
+        "A child carring something in their shirt walks in the rain on the street .",
+        "A girl holding a bag walks down the street in front of the chief justice 's office ."
+      ]
+    }
+  ],
+  "requetes": [
+    {
+      "id": "Q1",
+      "texte_fr": "Un cycliste traversant une rue sous la pluie",
+      "texte_en": "A cyclist crossing a street in the rain",
+      "image_associee": "3147758035_e8a70818cb",
+      "pertinentes": [
+        "3147758035_e8a70818cb"
+      ],
+      "partiellement_pertinentes": [
+        "1928319708_ccf1f4ee72",
+        "1143373711_2e90b7b799",
+        "3451984463_37ac1ff7a8"
+      ]
+    },
+    {
+      "id": "Q2",
+      "texte_fr": "Une personne marchant sous la pluie avec un parapluie",
+      "texte_en": "A person walking in the rain with an umbrella",
+      "image_associee": "842960985_91daf0d6ec",
+      "pertinentes": [
+        "842960985_91daf0d6ec",
+        "2734219983_fe86a60bf9",
+        "2261346505_302c67951d"
+      ],
+      "partiellement_pertinentes": [
+        "3684680947_f1c460242f"
+      ]
+    },
+    {
+      "id": "Q3",
+      "texte_fr": "Une rue inondée la nuit, avec une voiture",
+      "texte_en": "A flooded street at night with a car",
+      "image_associee": "2925577165_b83d31a7f6",
+      "pertinentes": [
+        "2925577165_b83d31a7f6"
+      ],
+      "partiellement_pertinentes": [
+        "3147758035_e8a70818cb",
+        "1928319708_ccf1f4ee72"
+      ]
+    },
+    {
+      "id": "Q4",
+      "texte_fr": "Des voyageurs attendent le métro sur le quai",
+      "texte_en": "Commuters waiting for the subway on the platform",
+      "image_associee": "2414384480_096867d695",
+      "pertinentes": [
+        "2414384480_096867d695"
+      ],
+      "partiellement_pertinentes": []
+    }
+  ]
+}

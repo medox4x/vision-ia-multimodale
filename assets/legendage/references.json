@@ -1,0 +1,17 @@
+{
+  "image": "quai_metro_2414384480.jpg",
+  "source": "Flickr8k (Hodosh et al., 2013), image 2414384480_096867d695.jpg",
+  "references_anglais_flickr8k": [
+    "A group of people are standing on a platform and waiting for the subway train .",
+    "Commuters on a subway platform as the train pulls in",
+    "Crowd waiting fro the train .",
+    "many people wait for the train .",
+    "Several people wait for a train ."
+  ],
+  "exemple_pedagogique_francais": {
+    "reference": "des personnes attendent le métro sur le quai",
+    "candidate_correcte": "des voyageurs attendent le train sur le quai",
+    "candidate_fausse": "des personnes attendent le bus sur le quai",
+    "statut": "phrases pédagogiques des diapositives 13 et 15 (référence traduite et adaptée de Flickr8k ; candidates écrites à la main)"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "description": "Transcription vérifiée de la facture fictive (texte exact utilisé pour générer l'image).",
+  "taille_image": [
+    1240,
+    1180
+  ],
+  "lignes": [
+    {
+      "champ": "Logo",
+      "texte": "AN",
+      "boite": [
+        100.5,
+        102.0,
+        144.0,
+        122.5
+      ]
+    },
+    {
+      "champ": "Émetteur",
+      "texte": "IMPRIMERIE ATLAS NUMÉRIQUE",
+      "boite": [
+        174.0,
+        85.0,
+        570.0,
+        112.5
+      ]
+    },
+    {
+      "champ": "Adresse émetteur",
+      "texte": "12, rue des Orangers – 10000 Rabat",
+      "boite": [
+        174.0,
+        121.0,
+        451.0,
+        137.0
+      ]
+    },
+    {
+      "champ": "Téléphone",
+      "texte": "Tél. : 05 37 00 00 00",
+      "boite": [
+        174.0,
+        145.0,
+        330.0,
+        157.5
+      ]
+    },
+    {
+      "champ": "Type de document",
+      "texte": "FACTURE",
+      "boite": [
+        961.0,
+        88.5,
+        1150.0,
+        117.0
+      ]
+    },
+    {
+      "champ": "Numéro de facture",
+      "texte": "N° FA-2026-0147",
+      "boite": [
+        994.0,
+        140.5,
+        1150.0,
+        154.5
+      ]
+    },
+    {
+      "champ": "Date",
+      "texte": "Date : 14/10/2026",
+      "boite": [
+        1007.0,
+        169.5,
+        1150.0,
+        182.5
+      ]
+    },
+    {
+      "champ": "Échéance",
+      "texte": "Échéance : 13/11/2026",
+      "boite": [
+        966.0,
+        193.0,
+        1150.0,
+        208.5
+      ]
+    },
+    {
+      "champ": "Mention client",
+      "texte": "Facturé à",
+      "boite": [
+        90.0,
+        252.5,
+        161.0,
+        264.5
+      ]
+    },
+    {
+      "champ": "Client",
+      "texte": "Laboratoire Data & IA",
+      "boite": [
+        90.0,
+        280.0,
+        294.5,
+        294.5
+      ]
+    },
+    {
+      "champ": "Adresse client",
+      "texte": "Campus universitaire – Rabat",
+      "boite": [
+        90.0,
+        307.5,
+        327.0,
+        324.0
+      ]
+    },
+    {
+      "champ": "En-tête du tableau",
+      "texte": "Désignation Qté P.U. HT Montant HT",
+      "boite": [
+        104.0,
+        395.0,
+        1136.0,
+        412.0
+      ]
+    },
+    {
+      "champ": "Ligne 1 du tableau",
+      "texte": "Impression affiches A2 couleur 40 18,00 720,00",
+      "boite": [
+        104.0,
+        443.5,
+        1136.0,
+        460.0
+      ]
+    },
+    {
+      "champ": "Ligne 2 du tableau",
+      "texte": "Reliure de rapports (dos carré) 8 25,00 200,00",
+      "boite": [
+        104.0,
+        493.5,
+        1136.0,
+        510.0
+      ]
+    },
+    {
+      "champ": "Ligne 3 du tableau",
+      "texte": "Cartes de visite (boîte de 250) 2 60,00 120,00",
+      "boite": [
+        104.0,
+        543.5,
+        1136.0,
+        560.0
+      ]
+    },
+    {
+      "champ": "Total HT",
+      "texte": "Total HT 1 040,00 DH",
+      "boite": [
+        820.0,
+        607.5,
+        1136.0,
+        622.5
+      ]
+    },
+    {
+      "champ": "TVA 20 %",
+      "texte": "TVA 20 % 208,00 DH",
+      "boite": [
+        820.0,
+        646.0,
+        1136.0,
+        660.5
+      ]
+    },
+    {
+      "champ": "Total TTC",
+      "texte": "Total TTC : 1 248,00 DH",
+      "boite": [
+        820.0,
+        684.5,
+        1136.0,
+        703.0
+      ]
+    },
+    {
+      "champ": "Montant en lettres",
+      "texte": "Arrêtée la présente facture à la somme de mille deux cent quarante-huit dirhams.",
+      "boite": [
+        89.0,
+        773.0,
+        700.5,
+        789.0
+      ]
+    },
+    {
+      "champ": "Mention légale",
+      "texte": "Document fictif – exemple pédagogique pour la démonstration de l'OCR.",
+      "boite": [
+        90.0,
+        846.5,
+        571.5,
+        861.0
+      ]
+    }
+  ]
+}

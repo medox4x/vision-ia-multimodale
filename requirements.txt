@@ -1,0 +1,46 @@
+# Démonstration pratique : vision par ordinateur, IA multimodale et métriques d'évaluation
+# Python 3.10 à 3.13 (validé avec Python 3.13 sur CPU).
+#
+# PyTorch : sur un ordinateur avec GPU NVIDIA, installez d'abord la version CUDA adaptée
+# en suivant https://pytorch.org/get-started/locally/ ; sinon la ligne ci-dessous installe une version CPU ou CUDA générique.
+# Dans Google Colab, PyTorch, NumPy, pandas, Matplotlib, SciPy et Transformers sont déjà installés.
+#
+# Programme externe (hors pip) : Tesseract OCR 5 + modèle français, voir README.md.
+
+# --- calcul et visualisation
+torch>=2.1
+torchvision>=0.16
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+pillow>=10.0
+opencv-python>=4.8
+
+# --- section 1 : suivi d'objets (YOLO11n + ByteTrack) et métriques MOTA / IDF1 / HOTA
+ultralytics>=8.3
+lap>=0.5.12          # affectation linéaire utilisée par le suivi d'Ultralytics
+motmetrics>=1.4
+
+# --- sections 2 et 5 : CLIP (accord texte-image, recherche image-texte)
+open_clip_torch>=2.24
+
+# --- section 3 : OCR (CER / WER)
+pytesseract>=0.3.10
+jiwer>=3.0
+
+# --- section 4 : légendage (BLIP) et métriques BLEU / METEOR / CIDEr
+transformers>=4.40
+nltk>=3.8
+
+# --- mode B uniquement : génération d'images par diffusion
+diffusers>=0.30
+accelerate>=0.30
+
+# --- section 0 : petit entraînement réel (chiffres manuscrits)
+scikit-learn>=1.3
+
+# --- exécution locale du notebook et contrôles interactifs
+jupyterlab>=4.0
+ipykernel>=6.0
+ipywidgets>=8.0
